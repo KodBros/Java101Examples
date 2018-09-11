@@ -1,4 +1,4 @@
 Değişken tipleri
 ==================================
 
-Bu programda değişken tiplerine değindik. 
+Java Değişken Tipleri
