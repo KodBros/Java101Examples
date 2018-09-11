@@ -19,6 +19,6 @@ public class dortIslem {
         System.out.println("c - d = "+(c-d));
         System.out.println("c / d = "+(c/d));
         System.out.println("c * d = "+(c*d));
-        System.out.println("c % d = "+(c%d)); 
+        System.out.println("c % d = "+(c%d));
     }   
 }
