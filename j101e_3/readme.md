@@ -1,6 +1,6 @@
-Dört İşlem
-=================
+Aritmetik Operatörler
+===========================
 
-Tam ve virgüllü iki sayının dört işlem yapıldıktan sonra çıkan sonuçları ekrana yazdırdık.
+İki tam sayıyı aritmetik operatörlerle işleme koyduk sonuçlarını görmek için projeye bak :D 
 
 
