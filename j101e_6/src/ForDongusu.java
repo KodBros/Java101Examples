@@ -17,6 +17,7 @@ public class ForDongusu {
         
         for ( ; ; ) {
             //Sonsuz döngüdür. İçine yazılan kodu sonsuza kadar çalıştırır. 
+          break;
         }
-    }  
+    }
 }
