@@ -1,0 +1,8 @@
+public static void main(String[] args) {
+        System.out.println(5<<1);//0101 -> 1010 (10)
+        System.out.println(5<<2);//0101 -> 1010 -> 10100 (20)
+        System.out.println(5>>1);//0101 -> 0010 (2)
+        int a = 100;
+        int b = 200;
+        System.out.println((b<a)?(b +" "+ a +" dan küçük"):(b +" "+ a +" dan büyük")); 
+    }
