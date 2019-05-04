@@ -4,5 +4,15 @@ public static void main(String[] args) {
         System.out.println(5>>1);//0101 -> 0010 (2)
         int a = 100;
         int b = 200;
-        System.out.println((b<a)?(b +" "+ a +" dan küçük"):(b +" "+ a +" dan büyük")); 
+        System.out.println((b<a)?(b +" "+ a +" dan kÃ¼Ã§Ã¼k"):(b +" "+ a +" dan bÃ¼yÃ¼k")); 
+        
+        String isim = "yusuf";
+        int sayi = 500;
+        metod(isim);
+        metod(sayi);
+    }
+    
+    public static <tip> void  metod(tip arg)
+    {
+        System.out.println(arg);
     }
